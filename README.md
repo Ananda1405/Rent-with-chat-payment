@@ -1,4 +1,4 @@
-##  It's a web-based platform where anyone can rent house within a few seconds where Landlords can post about their empty houses.
+##  It's a web-based platform where anyone can rent house with payment system within a few seconds where Landlords can post about their empty houses also they can chat
 
 ## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
 ## **Database: MySQL
