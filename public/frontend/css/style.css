@@ -1,0 +1,219 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.navbar ul li{
+	height: auto;
+	margin: 0px 10px;
+
+}
+.navbar ul li a {
+    font-size: 18px;
+    color: white ! important;
+    font-weight: bold;
+	margin: 0 auto;
+	
+}
+
+.navbar ul li:hover {
+    background-color: rgb(126, 167, 154);
+    color: black !important;
+   
+}
+
+
+.name {
+    font-family: 'Grandstander', cursive;
+    padding: 15px 0px 5px 0px;
+    font-size: 45px;
+    margin-left: 12px;
+}
+
+
+footer {
+    background-color: rgb(25, 34, 33);
+    color: whitesmoke;
+    padding-top: 30px;
+}
+
+#footer p {
+    text-align: justify;
+}
+
+#footer .social .fab {
+    font-size: 36px;
+    margin: 20px 12px;
+    color: white;
+    transition: 1s;
+}
+
+#footer .social .fab:hover {
+    color: rgb(179, 170, 170);
+    transition: 1s;
+}
+
+#footer h2 {
+    padding-bottom: 20px;
+    font-weight: 800;
+}
+
+
+
+.login-register {
+    background-image: url('../img/login-register.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+#search {
+    display: flex;
+    align-items: center;
+    background: url('../img/cover.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color: whitesmoke;
+    height: 100vh !important;
+}
+
+.area-wise-show {
+    padding: 60px;
+    color: rgb(255, 255, 255);
+    background-color: gray;
+
+}
+
+h2 .area-wise-not-available {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.area-show .all-areas,
+.sort .order {
+    background-color: rgb(238, 238, 238);
+}
+
+.area-show .all-areas a,
+.sort .order a {
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    display: block;
+    text-align: center;
+}
+
+.sidebar-heading {
+    text-align: center;
+}
+
+.sort li:hover,
+.area-show li:hover {
+    background-color: rgb(194, 194, 194);
+}
+
+
+
+
+
+
+/* start content section */
+#content {
+    margin: 50px 0px;
+}
+
+#content .sort {
+    margin-bottom: 40px;
+}
+
+#content .card {
+    background-color: rgb(253, 249, 249);
+    transition: .5s;
+    box-shadow: 6px 7px 10px #e9e5e5;
+}
+
+#content .card:hover {
+    box-shadow: 6px 7px 20px #afaeae;
+    transition: .5s;
+
+
+}
+
+#content a {
+    text-decoration: none;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content .card-body p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grey {
+    color: grey;
+}
+
+
+
+.address {
+    color: grey;
+}
+
+.address:hover {
+    color: rgb(79, 70, 70);
+}
+
+.card-body h4 {
+    color: #333;
+    font-weight: 600;
+}
+
+/* end content section */
+
+
+
+/* ----------------------------------our-story----------------------------------- */
+#our-story {
+    padding: 80px 0px;
+}
+
+#our-story .col-md-6 .story {
+    padding-top: 60px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    font-family: 'Lalezar', cursive;
+}
+
+#our-story .col-md-6 .pera {
+
+    font-weight: 500;
+    padding-right: 48px;
+    color: grey;
+    text-align: justify;
+}
+
+
+
+
+.section-4 {
+    margin-top: 10%;
+}
+
+.section-4 .row .col-md-7,
+.col-md-5 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.section-4 a {
+    font-size: 40px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+.section-4 .para-1 {
+    color: white;
+    margin-top: 7%;
+    font-family: 'Roboto Condensed';
+    font-size: 23px;
+}
